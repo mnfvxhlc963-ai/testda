@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test tizimi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Boshlanish oynasi -->
+  <div class="card" id="start-screen">
+    <h2>Test turini tanlang</h2>
+    <button class="test-btn" data-json="argos.json">Argos AKT-1</button>
+    <button class="test-btn" data-json="argos.json">AKT-2</button>
+    <button class="test-btn" data-json="test3.json">AKT-3</button>
+    <button class="test-btn" data-json="test4.json">AKT-4</button>
+    <button class="test-btn" data-json="test5.json">AKT-5</button>
+    <button class="test-btn" data-json="test6.json">AKT-6</button>
+    <button id="start-btn">Testni boshlash</button>
+  </div>
+
+  <!-- Test oynasi -->
+  <div class="card hidden" id="quiz-container">
+    <button id="back-btn">← Ortga</button>
+    <div class="top-bar">
+      <div class="timer"><span id="time">60</span> soniya</div>
+    </div>
+
+    <h2 id="question-text"></h2>
+    <div id="answers"></div>
+
+    <!-- Pastki bo‘lim doim pastda turadi -->
+    <div class="bottom-fixed">
+      <button id="next-btn" class="hidden">Keyingi</button>
+      <div id="question-count"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Modem vazifasi nima?",
+    "answer1": "Faqat printer bilan aloqa o‘rnatish uchun xizmat qiladi",
+    "answer2": "Raqamli signalni analogga aylantirib internetga ulanishni ta’minlaydi",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Raqamli signalni analogga aylantirib internetga ulanishni ta’minlaydi"
+  },
+  {
+    "question": "Qaysi holat faol tinglash deb ataladi?",
+    "answer1": "Bir tomonlama muloqot",
+    "answer2": "Suhbatdoshni diqqat bilan tinglab, savollar berish",
+    "answer3": "Faqat boshni qimirlitish",
+    "answer4": null,
+    "correct_answer": "Suhbatdoshni diqqat bilan tinglab, savollar berish"
+  },
+  {
+    "question": "Kompyuterning asosiy hisoblash qurilmasi qaysi?",
+    "answer1": "Monitor",
+    "answer2": "Protsessor",
+    "answer3": "Klaviatura",
+    "answer4": "Sichqoncha",
+    "correct_answer": "Protsessor"
+  },
+  {
+    "question": "Operatsion tizim nima vazifani bajaradi?",
+    "answer1": "Matn terish uchun ishlatiladi",
+    "answer2": "Kompyuter ishini boshqaradi",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Kompyuter ishini boshqaradi"
+  },
+  {
+    "question": "Fayl kengaytmasi nimani bildiradi?",
+    "answer1": "Fayl turi va formatini",
+    "answer2": "Fayl hajmini",
+    "answer3": "Fayl egasini",
+    "answer4": null,
+    "correct_answer": "Fayl turi va formatini"
+  },
+  {
+    "question": "Brauzer nima?",
+    "answer1": "Internet sahifalarini ko‘rish dasturi",
+    "answer2": "Antivirus dasturi",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Internet sahifalarini ko‘rish dasturi"
+  },
+  {
+    "question": "Antivirus dasturi nima uchun kerak?",
+    "answer1": "Kompyuterni viruslardan himoya qilish uchun",
+    "answer2": "Fayllarni o‘chirish uchun",
+    "answer3": "Fayllarni arxivlash uchun",
+    "answer4": null,
+    "correct_answer": "Kompyuterni viruslardan himoya qilish uchun"
+  },
+  {
+    "question": "RAM nimani anglatadi?",
+    "answer1": "Tasodifiy xotira (tezkor xotira)",
+    "answer2": "Doimiy xotira",
+    "answer3": "Protsessor tezligi",
+    "answer4": "Fayl hajmi",
+    "correct_answer": "Tasodifiy xotira (tezkor xotira)"
+  },
+  {
+    "question": "Internetda ma’lumot almashish uchun nima kerak?",
+    "answer1": "Tarmoq ulangan kompyuter",
+    "answer2": "Printer",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Tarmoq ulangan kompyuter"
+  },
+  {
+    "question": "Klaviatura qanday qurilma?",
+    "answer1": "Kiritish qurilmasi",
+    "answer2": "Chiqarish qurilmasi",
+    "answer3": "Hisoblash qurilmasi",
+    "answer4": null,
+    "correct_answer": "Kiritish qurilmasi"
+  },
+  {
+    "question": "Monitor qanday qurilma?",
+    "answer1": "Chiqarish qurilmasi",
+    "answer2": "Saqlash qurilmasi",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Chiqarish qurilmasi"
+  },
+  {
+    "question": "Word dasturida hujjatni saqlash buyrug‘i?",
+    "answer1": "Save",
+    "answer2": "Open",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Save"
+  },
+  {
+    "question": "Internetda matnli xabar yuborish uchun?",
+    "answer1": "Email",
+    "answer2": "Paint",
+    "answer3": "Excel",
+    "answer4": null,
+    "correct_answer": "Email"
+  },
+  {
+    "question": "Kompyuterning asosiy xotirasi nima?",
+    "answer1": "RAM",
+    "answer2": "Protsessor",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "RAM"
+  },
+  {
+    "question": "“Cut” buyrug‘i nima qiladi?",
+    "answer1": "Tanlangan matnni kesib oladi",
+    "answer2": "Tanlangan matnni formatlaydi",
+    "answer3": "Tanlangan matnni o‘chiradi",
+    "answer4": null,
+    "correct_answer": "Tanlangan matnni kesib oladi"
+  },
+  {
+    "question": "“Paste” buyrug‘i nima qiladi?",
+    "answer1": "Matnni joylashtiradi",
+    "answer2": "Matnni kesadi",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Matnni joylashtiradi"
+  },
+  {
+    "question": "PDF fayl nima uchun ishlatiladi?",
+    "answer1": "Matnli hujjatlarni xavfsiz formatda saqlash uchun",
+    "answer2": "Rasmlar saqlash uchun",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Matnli hujjatlarni xavfsiz formatda saqlash uchun"
+  },
+  {
+    "question": "Ma’lumotlar qanday birlikda o‘lchanadi?",
+    "answer1": "Bayt",
+    "answer2": "Volt",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Bayt"
+  },
+  {
+    "question": "Kompyuter tarmoqlari nima uchun kerak?",
+    "answer1": "Kompyuterlar o‘rtasida ma’lumot almashish uchun",
+    "answer2": "Kompyuterni sovutish uchun",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Kompyuterlar o‘rtasida ma’lumot almashish uchun"
+  },
+  {
+    "question": "Bulutli texnologiya (cloud) nima uchun kerak?",
+    "answer1": "Ma’lumotlarni internet orqali saqlash va ulashish uchun",
+    "answer2": "Kompyuter xotirasini tozalash uchun",
+    "answer3": null,
+    "answer4": null,
+    "correct_answer": "Ma’lumotlarni internet orqali saqlash va ulashish uchun"
+  }
+]
